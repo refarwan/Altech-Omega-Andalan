@@ -15,6 +15,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 `npm install`
 
-### 1. Running Unit Test
+### 2. Running Unit Test
 
 `npm test`
